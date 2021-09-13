@@ -1,0 +1,14 @@
+secretKey: xxx # 高德secret_key
+weatherType: all # all返回预报天气，base返回实况天气
+cityCode: # 城市编码
+  - 370211
+  - 330100
+timer:
+  hour: 8
+  minute: 10
+email:
+  host: smtp.126.com:25
+  user: xxx
+  password: xxx
+  to:
+    - xxx
